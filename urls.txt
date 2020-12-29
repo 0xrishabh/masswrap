@@ -1,0 +1,517 @@
+http://13tharmyband.army.mil:80 301 192
+http://18abcjfo.ellc.learn.army.mil:80 301
+http://1c.army.mil:80 301
+http://aaog.mdw.army.mil:80 301 2623
+http://aci.army.mil:80 301
+http://adminpubs.tradoc.army.mil:80 301 160
+http://aerostats.army.mil:80 301
+http://afhsc.army.mil:80 503 760
+http://afrims.amedd.army.mil:80 301 2633
+http://afs.natick.army.mil:80 302
+http://ags02.sec.usace.army.mil:80 301 241
+http://ahrpo.amedd.army.mil:80 301 2631
+http://alc.ncoes.army.mil:80 301
+http://almc.ellc.learn.army.mil:80 301
+http://amcomdmz.redstone.army.mil:80 400 2737
+http://amis-staging.army.mil:80 301
+http://amis.army.mil:80 404 2776
+http://ampo.amedd.army.mil:80 301 2627
+http://apcr.natick.army.mil:80 302
+http://api.ARMY.mil:80 301
+http://apps.gcss.army.mil:443 503 15322
+http://apps.gcss.army.mil:80 503 15314
+http://arap.safety.army.mil:80 301
+http://armyg1.army.mil:80 404 179
+http://armypubs.us.army.mil:80 301
+http://arrtc.cvs.ellc.learn.army.mil:80 301
+http://asamra.army.mil:80 404 179
+http://asc.cvs.ellc.learn.army.mil:80 301
+http://asom.ellc.learn.army.mil:80 301
+http://atiam.train.army.mil:80 301
+http://avnctr.ellc.learn.army.mil:80 301
+http://bamc.amedd.army.mil:80 403 513
+http://bands.army.mil:80 301 192
+http://branching-rotc.army.mil:80 301
+http://bsat.apgea.army.mil:80 403 2641
+http://cape.army.mil:80 403 2343
+http://careers.usace.army.mil:80 301
+http://carsis1.train.army.mil:80 302
+http://catc.cvs.ellc.learn.army.mil:80 301
+http://ccoe.facultyandstaff.army.mil:80 301
+http://ccoe.staffandfaculty.army.mil:80 301
+http://cdmrp.army.mil:80 301 2618
+http://cdwnow.peostri.army.mil:80 301 169
+http://ceng.cdt.cprobe.army.mil:80 301 162
+http://certauth.remote.cdt.cprobe.army.mil:80 301 162
+http://chpsidsurvey.natick.army.mil:80 403 2651
+http://climate.sec.usace.army.mil:80 301 243
+http://cmgt.cdt.cprobe.army.mil:80 301 162
+http://cmsstg.us.army.mil:80 301
+http://coe-pojmdmcore.poj.usace.army.mil:80 302 309
+http://comm.noc.cdt.cprobe.army.mil:80 301 162
+http://conference.redstone.army.mil:80 403 2651
+http://courses.gordon.army.mil:80 503 15324
+http://crc.army.mil:80 301
+http://csl.army.mil:80 301 2567
+http://cvsmedia.army.mil:80 301
+http://cyber.army.mil:80 301
+http://cybercenterig.army.mil:80 301
+http://cybercoedoctrine.army.mil:80 301
+http://cyberdes.army.mil:80 301
+http://dde.carlisle.army.mil:80 301 2584
+http://defendyourheart.amedd.army.mil:80 301 2651
+http://dl.gordon.army.mil:80 301
+http://dunham.nrmc.amedd.army.mil:80 301
+http://ecptst.army.mil:80 301
+http://edsc.ekr.ndev.cdt.cprobe.army.mil:80 301 162
+http://efmp.amedd.army.mil:80 403 2643
+http://eft.usace.army.mil:80 308
+http://eisenhower.amedd.army.mil:80 301
+http://eitpmo.amedd.army.mil:80 403 2646
+http://em.army.mil:80 400 2721
+http://enlistedcorps.amedd.army.mil:80 301 2647
+http://ers.amedd.army.mil:80 301 2627
+http://esc.army.mil:80 302
+http://esc1.army.mil:80 302
+http://ewpmt.army.mil:80 301
+http://fieldband.ahp.us.army.mil:80 302 221
+http://fifeanddrum-staging.army.mil:80 301
+http://forscomg6tacc4.army.mil:80 301
+http://fr2.safety.army.mil:80 301 2628
+http://ftp.afms1.belvoir.army.mil:80 301 2643
+http://fudsportal.usace.army.mil:80 200 730
+http://g8.army.mil:80 301 195
+http://gcss.army.mil:80 301
+http://geospatial-lrp.usace.army.mil:80 301
+http://glacier.sec.usace.army.mil:80 301 243
+http://historical.blastinjuryresearch.amedd.army.mil:80 301 2681
+http://history.redstone.army.mil:80 301 2640
+http://home.army.mil:80 301 2616
+http://iatraining.us.army.mil:80 301
+http://icejam-dev.sec.usace.army.mil:80 200 2272
+http://idmsonline.atsc.army.mil:80 301
+http://idmsonlinedev.atsc.army.mil:80 301
+http://idmsonlinetest.atsc.army.mil:80 301
+http://impac2.natick.army.mil:80 301 2633
+http://inauguralsupport.mdw.army.mil:80 301 2649
+http://informatics.mamc.amedd.army.mil:443 503 15348
+http://ipo.cvs.ellc.learn.army.mil:80 301
+http://ipo.ellc.learn.army.mil:80 301
+http://jacks.jpeocbd.army.mil:80 301 2632
+http://jagu.army.mil:80 301
+http://jc3.natick.army.mil:80 302
+http://jicap.cdt.cprobe.army.mil:80 301 162
+http://jicap.ndev.cdt.cprobe.army.mil:80 301 162
+http://jicap.ntst.cdt.cprobe.army.mil:80 301 162
+http://joint.safety.army.mil:80 301 2632
+http://jtapic.amedd.army.mil:80 301 2632
+http://juniorofficer.army.mil:80 302 215
+http://kacc.nrmc.amedd.army.mil:80 301
+http://ke.army.mil:80 301 2612
+http://kusahc.nrmc.amedd.army.mil:80 301
+http://landwarnet.army.mil:80 301
+http://levees-test.sec.usace.army.mil:80 301 247
+http://levees.sec.usace.army.mil:443 400 12
+http://levees.sec.usace.army.mil:80 301 242
+http://lshi-test.sec.usace.army.mil:80 400 226
+http://lyster.amedd.army.mil:80 301
+http://media.army.mil:80 301 2618
+http://medicalservicecorps.amedd.army.mil:80 301 2658
+http://mlc.ncoes.army.mil:80 301
+http://mrdc.amedd.army.mil:80 301 2628
+http://mrmc.amedd.army.mil:80 301 2628
+http://museums.army.mil:80 302
+http://my.army.mil:80 302
+http://nec.army.mil:80 503 15302
+http://nld.usace.army.mil:443 400 12
+http://nld.usace.army.mil:80 301 242
+http://oaats.cvs.ellc.learn.army.mil:80 301
+http://odin.tradoc.army.mil:80 301 237
+http://oegames.tradoc.army.mil:80 301 158
+http://ordnance.cvs.ellc.learn.army.mil:80 301
+http://origin-mscoe.wood.army.mil:80 403 2650
+http://origin-rdl.train.army.mil:80 302
+http://origin-sigcoe.llc.army.mil:80 403 2650
+http://origin-www.apg.army.mil:80 403 2646
+http://origin-www.hrcapps.army.mil:80 403 2651
+http://osbp.army.mil:80 301 195
+http://osbpa.army.mil:443 400 281
+http://outreach.lrh.usace.army.mil:80 301 161
+http://peosoldier.army.mil:80 400 208
+http://peostri.army.mil:80 301 2619
+http://preventsuicide.army.mil:80 301
+http://ps.ndev.cdt.cprobe.army.mil:443 400 248
+http://ps.ndev.cdt.cprobe.army.mil:80 301 162
+http://public.tag.army.mil:80 302
+http://qm.ellc.learn.army.mil:80 301
+http://rapidcapabilitiesoffice.army.mil:80 301 2655
+http://rdl.train.army.mil:80 302
+http://rdl1.train.army.mil:80 302
+http://recruiting.army.mil:80 301
+http://regulatory-test.ops.usace.army.mil:80 301 251
+http://rmis.safety.army.mil:443 503 15326
+http://rmis.safety.army.mil:80 503 15318
+http://rsp.cdt.cprobe.army.mil:443 400 248
+http://rsp.cdt.cprobe.army.mil:80 301 162
+http://service.peoeisdev.army.mil:80 302
+http://slc.ncoes.army.mil:80 301
+http://smallbusopps.amedd.army.mil:80 301 2645
+http://soowebcams.lre.usace.army.mil:80 301 161
+http://splunk.cdt.cprobe.army.mil:443 400 248
+http://splunk.cdt.cprobe.army.mil:80 301 162
+http://sso.oedata.army.mil:80 301 2629
+http://sts.cdt.cprobe.army.mil:80 301 162
+http://swt1.army.mil:80 302
+http://twilight.mdw.army.mil:80 301 2633
+http://uastc.cvs.ellc.learn.army.mil:80 301
+http://umm.cvs.ellc.learn.army.mil:80 301
+http://usaasa.tradoc.army.mil:80 301 157
+http://usacac.ARMY.mil:80 301 2621
+http://usace.ellc.learn.army.mil:80 301
+http://usarec.cvs.ellc.learn.army.mil:80 301
+http://usarec.ellc.learn.army.mil:80 301
+http://usstatefuneral.mdw.army.mil:80 301 2645
+http://vaapp.ngb.army.mil:80 301 2626
+http://veteranmedals.army.mil:80 301 2633
+http://w3.arl.army.mil:80 301 2619
+http://w3.spa.usace.army.mil:80 301
+http://wct.army.mil:80 302
+http://web.afms1.belvoir.army.mil:80 301 2643
+http://winn.amedd.army.mil:80 301
+http://www.12cab.army.mil:80 301
+http://www.30thsignal.army.mil:443 200 3420
+http://www.41fab.army.mil:80 301
+http://www.7atc.army.mil:80 301
+http://www.acsim.army.mil:80 403 1893
+http://www.agc.army.mil:80 301
+http://www.army.mil:80 301
+http://www.armyresilience.army.mil:80 301 195
+http://www.armyupress.army.mil:80 301
+http://www.asafm.army.mil:80 301
+http://www.asamra.army.mil:80 301 195
+http://www.atis.army.mil:80 400 2728
+http://www.avmc.army.mil:80 301
+http://www.career-satisfaction.army.mil:80 301 134
+http://www.carson.army.mil:80 301 2626
+http://www.cascom.army.mil:80 301 150
+http://www.ccad.army.mil:80 301 2624
+http://www.dsca.army.mil:80 403 2642
+http://www.erdc.usace.army.mil:80 301
+http://www.europeafrica.army.mil:80 301
+http://www.hamilton.army.mil:80 301 2631
+http://www.hamiltonaward.army.mil:80 301 192
+http://www.heraldry.army.mil:80 301 2631
+http://www.history.army.mil:443 400 281
+http://www.history.army.mil:80 301 195
+http://www.hnc.usace.army.mil:80 301
+http://www.iwr.usace.army.mil:80 301
+http://www.lrp.usace.army.mil:80 301
+http://www.martin.amedd.army.mil:80 301
+http://www.mccoy.army.mil:443 503 15322
+http://www.mdwhome.mdw.army.mil:80 301 2639
+http://www.mvm.usace.army.mil:80 301
+http://www.mvp.usace.army.mil:80 301
+http://www.nab.usace.army.mil:80 301
+http://www.ncoworldwide.army.mil:80 301
+http://www.nrmc.amedd.army.mil:80 301
+http://www.nwd.usace.army.mil:80 301
+http://www.nww.usace.army.mil:80 301
+http://www.oldguard.mdw.army.mil:80 403 2648
+http://www.peocscss.army.mil:80 301 2630
+http://www.poj.usace.army.mil:80 301
+http://www.rmc.usace.army.mil:80 301
+http://www.saj.usace.army.mil:80 301
+http://www.sam.usace.army.mil:80 301
+http://www.sddc.army.mil:80 301 2622
+http://www.spn.usace.army.mil:80 301
+http://www.swf-wc.usace.army.mil:80 301 157
+http://www.tradoc.army.mil:80 301
+http://www.train.army.mil:80 301 2626
+http://www.usaisr.amedd.army.mil:80 301 2641
+http://www.usamma.army.mil:80 301 2628
+http://www.usarec.army.mil:80 301
+http://www.usarj.army.mil:80 301
+http://www.water.rma.army.mil:443 503 15330
+https://18abcjfo.ellc.learn.army.mil:443 302
+https://1c.army.mil:443 302
+https://aaog.mdw.army.mil:443 302 2631
+https://abc.chra.army.mil:443 301
+https://acas.army.mil:443 200 15829
+https://accs.army.mil:443 301 161
+https://ace2.tacom.army.mil:443 200 5287
+https://aci.army.mil:443 301
+https://adcfxfer01.adcf.army.mil:443 302
+https://addr.dencom.army.mil:443 200 4910
+https://adfsgcs.tacom.army.mil:443 200 2939
+https://adminpubs.tradoc.army.mil:443 200 4042
+https://aec.army.mil:443 200 112274
+https://aerostats.army.mil:443 302
+https://afhsc.army.mil:443 503 760
+https://afmesnmhm-sa.amedd.army.mil:443 404 2319
+https://afrims.amedd.army.mil:443 200 1610
+https://ags02.sec.usace.army.mil:443 200 256
+https://ahrpo.amedd.army.mil:443 200 6961
+https://ak-vpn1.ngb.army.mil:443 200 315
+https://ak-vpn2.ngb.army.mil:443 200 315
+https://al-vpn1.ngb.army.mil:443 200 315
+https://alaska.sddc.army.mil:443 302
+https://alc.ncoes.army.mil:443 302
+https://almc.ellc.learn.army.mil:443 302
+https://amcom1.redstone.army.mil:443 200 207
+https://amcom2028.redstone.army.mil:443 302 144
+https://amcomdmz.redstone.army.mil:443 200 44
+https://ameddciviliancorps.amedd.army.mil:443 200 242164
+https://ameddcs.army.mil:443 404 315
+https://ameddmuseum.amedd.army.mil:443 200 24556
+https://amis-staging.army.mil:443 200 7115
+https://amis.army.mil:443 404 2776
+https://amp.amedd.army.mil:443 403 13
+https://amsc.cvs.ellc.learn.army.mil:443 403 2653
+https://ancexplorer.army.mil:443 301 172
+https://anmcrtmobile.eiss.army.mil:443 403 58
+https://aors.army.mil:443 404 315
+https://apcr.natick.army.mil:443 302
+https://apgmd.ra.army.mil:443 200 315
+https://api.ARMY.mil:443 200 4196
+https://ar-vpn1.ngb.army.mil:443 200 315
+https://ar-vpn2.ngb.army.mil:443 200 315
+https://arap.safety.army.mil:443 200 44969
+https://army-esd.army.mil:443 302
+https://armyg1.army.mil:443 404 179
+https://armypubs.us.army.mil:443 403 291
+https://arnorth2.ra.army.mil:443 200 315
+https://arrtc.cvs.ellc.learn.army.mil:443 302
+https://asamra.army.mil:443 404 179
+https://asb.army.mil:443 200 12031
+https://asc.cvs.ellc.learn.army.mil:443 302
+https://asom.ellc.learn.army.mil:443 302
+https://asts.tradoc.army.mil:443 307
+https://athd.army.mil:443 200 27165
+https://atiam.train.army.mil:443 302
+https://atiam1.train.army.mil:443 301 161
+https://atlas.obs.army.mil:443 200 2182
+https://atscconnect.atsc.army.mil:443 302
+https://aums1.redstone.army.mil:443 302
+https://autonoa.army.mil:443 302
+https://avnctr.ellc.learn.army.mil:443 302
+https://awc.army.mil:443 302 142
+https://bamc.amedd.army.mil:443 400 2733
+https://belva.ra.army.mil:443 200 315
+https://blastinjuryresearch.amedd.army.mil:443 200 81096
+https://bragg.vpn.2rcc.army.mil:443 404 2342
+https://c5isr.ccdc.army.mil:443 200 34149
+https://cadie.army.mil:443 302
+https://caftest.army.mil:443 302
+https://calvmview.army.mil:443 200 3391
+https://camky.ra.army.mil:443 200 315
+https://cape.army.mil:443 403 2343
+https://careers.usace.army.mil:443 200 6947
+https://carl.army.mil:443 404 182311
+https://carpa.ra.army.mil:443 200 315
+https://carson.vpn.2rcc.army.mil:443 404 2342
+https://carson.vpn.aess.army.mil:443 200 147
+https://carsonbftvpn.army.mil:443 200 315
+https://casacac.army.mil:443 200 20044
+https://catc.cvs.ellc.learn.army.mil:443 302
+https://ccoe.facultyandstaff.army.mil:443 302
+https://ccoe.staffandfaculty.army.mil:443 500 176
+https://cdmrp.army.mil:443 200 84605
+https://cdn.amedd.army.mil:443 200 1810
+https://cdwnow.peostri.army.mil:443 200 59581
+https://cecom.apg.army.mil:443 403 179
+https://ceng.cdt.cprobe.army.mil:443 400 230
+https://certauth.remote.cdt.cprobe.army.mil:443 400 230
+https://chpsidsurvey.natick.army.mil:443 400 2740
+https://climate.sec.usace.army.mil:443 302 227
+https://cmgt.cdt.cprobe.army.mil:443 400 230
+https://cmsstg.us.army.mil:443 302 232
+https://coe-pojmdmcore.poj.usace.army.mil:443 302 330
+https://comm.noc.cdt.cprobe.army.mil:443 403 146
+https://comm.warnings1.army.mil:443 403 2649
+https://coop.keystone.army.mil:443 302
+https://core-odev.us.army.mil:443 302
+https://crc.army.mil:443 302
+https://cren-c601.j-cre.cren.army.mil:443 302 322
+https://cs.signal.ARMY.mil:443 200 13771
+https://csl.army.mil:443 404 315
+https://ct-vpn1.ngb.army.mil:443 200 315
+https://ctd.army.mil:443 302
+https://cvsmedia.army.mil:443 302
+https://cyber.army.mil:443 200 81443
+https://cybercenterig.army.mil:443 302
+https://cybercoedoctrine.army.mil:443 302
+https://cyberdes.army.mil:443 302
+https://datastore.ahrs.army.mil:443 302
+https://datastoretrng.ahrs.army.mil:443 200 2336
+https://dau.atrrs.army.mil:443 302 131
+https://ddasstraining.arnorth.army.mil:443 302
+https://dde.carlisle.army.mil:443 301 32009
+https://de-vpn1.ngb.army.mil:443 200 315
+https://de-vpn2.ngb.army.mil:443 200 315
+https://defendyourheart.amedd.army.mil:443 200 9106
+https://detmd.ra.army.mil:443 200 315
+https://dl.gordon.army.mil:443 302
+https://dpstest.sddc.army.mil:443 404 99
+https://druny.ra.army.mil:443 200 315
+https://dscoe.army.mil:443 307 282
+https://dst.logsa.army.mil:443 200 5979
+https://dstoib.logsa.army.mil:443 200 5979
+https://dtms-cats.army.mil:443 302
+https://dtms-dev.army.mil:443 302
+https://dtms.army.mil:443 302
+https://dunham.nrmc.amedd.army.mil:443 301
+https://eamsatest01.us.army.mil:443 200 380
+https://ecptst.army.mil:443 403 264
+https://edcpdesign-mrmcit.amedd.army.mil:443 200 609
+https://edsc.ekr.ndev.cdt.cprobe.army.mil:443 400 230
+https://efmp.amedd.army.mil:443 200 9317
+https://eft.usace.army.mil:443 200 6881
+https://egs.cdmrp.army.mil:443 302
+https://egsua.cdmrp.army.mil:443 302
+https://eisenhower.amedd.army.mil:443 301
+https://eitpmo.amedd.army.mil:443 200 12254
+https://emilpotest.ahrs.army.mil:443 302
+https://emilpotestftp.ahrs.army.mil:443 403 1233
+https://engineer.cvs.ellc.learn.army.mil:443 403 2657
+https://enlistedcorps.amedd.army.mil:443 200 20903
+https://enterpriseservices.army.mil:443 404 315
+https://epubs-test.army.mil:443 503 2718
+https://ers.amedd.army.mil:443 200 268
+https://esc.army.mil:443 200 1496
+https://esc1.army.mil:443 200 1496
+https://eusva.ra.army.mil:443 200 315
+https://evans.amedd.army.mil:443 301 148
+https://ewpmt.army.mil:443 302
+https://extranet.aro.army.mil:443 200 2714
+https://extranet.usasac.army.mil:443 403 13
+https://federation.eams.army.mil:443 200 16861
+https://fieldband.ahp.us.army.mil:443 200 48675
+https://fifeanddrum-staging.army.mil:443 200 17631
+https://fl-vpn1.ngb.army.mil:443 200 315
+https://fl-vpn2.ngb.army.mil:443 200 315
+https://fmsweb.army.mil:443 301 2620
+https://fmsweb.fms.army.mil:443 302 140
+https://foodtrak.mwr.army.mil:443 302 162
+https://forscomg6tacc4.army.mil:443 302
+https://fshtx.ra.army.mil:443 200 315
+https://ftp.afms1.belvoir.army.mil:443 404 315
+https://fudsportal.usace.army.mil:443 200 33119
+https://futurearmyofficers.army.mil:443 200 63028
+https://g6msd.redstone.army.mil:443 200 11319
+https://g6sbmval.redstone.army.mil:443 302
+https://g8.army.mil:443 301 195
+https://ga-vpn1.ngb.army.mil:443 200 315
+https://gabrielnimbus.arcyber.army.mil:443 400 202
+https://gcss.army.mil:443 302 148
+https://generichost-48-115.swa.army.mil:443 200 315
+https://geospatial-lrp.usace.army.mil:443 200 3396
+https://glacier.sec.usace.army.mil:443 302 231
+https://gorga.ra.army.mil:443 200 315
+https://gu-vpn1.ngb.army.mil:443 200 315
+https://helpdesk.ahrs.army.mil:443 200 2350
+https://hi-vpn1.ngb.army.mil:443 200 315
+https://historical.blastinjuryresearch.amedd.army.mil:443 302 662
+https://history.redstone.army.mil:443 200 12238
+https://home.army.mil:443 302
+https://hqda-dusa-te.army.mil:443 200 15264
+https://i2wdsslvpn.apg.army.mil:443 404 2547
+https://ia-vpn1.ngb.army.mil:443 200 315
+https://iads.redstone.army.mil:443 200 8069
+https://iatraining.us.army.mil:443 302
+https://icejam-dev.sec.usace.army.mil:443 200 2272
+https://idm.armyerp.army.mil:443 302 230
+https://idmsonline.atsc.army.mil:443 302 164
+https://idmsonlinedev.atsc.army.mil:443 403 278
+https://idmsonlinetest.atsc.army.mil:443 403 281
+https://idmsonlinetest1.atsc.army.mil:443 302 173
+https://ikn.army.mil:443 302
+https://il-vpn1.ngb.army.mil:443 200 315
+https://imcom-cop.psif.army.mil:443 200 38488
+https://impac2.natick.army.mil:443 200 13270
+https://ims-arfmsssat01.belvoir.army.mil:443 200 728
+https://io-splunk.mi.army.mil:443 302
+https://ion.army.mil:443 302 217
+https://ipo.cvs.ellc.learn.army.mil:443 302
+https://ipo.ellc.learn.army.mil:443 302
+https://iss.rfitv.army.mil:443 200 10145
+https://iss2.rfitv.army.mil:443 200 10145
+https://jacks.jpeocbd.army.mil:443 200 10750
+https://jacsc.ra.army.mil:443 200 315
+https://jagu.army.mil:443 302
+https://jarviss.army.mil:443 200 287
+https://jc3.natick.army.mil:443 200 11064
+https://jicap.cdt.cprobe.army.mil:443 200 82
+https://jicap.ndev.cdt.cprobe.army.mil:443 400 230
+https://jicap.ntst.cdt.cprobe.army.mil:443 400 230
+https://joint.safety.army.mil:443 200 354
+https://juniorofficer.army.mil:443 200 100684
+https://knrs.chra.army.mil:443 504 3546
+https://kusahc.nrmc.amedd.army.mil:443 200 71249
+https://ky-vpn1.ngb.army.mil:443 200 315
+https://levees-test.sec.usace.army.mil:443 200 149180
+https://lshi-test.sec.usace.army.mil:443 403 202
+https://me-vpn2.ngb.army.mil:443 200 315
+https://metc.cvs.ellc.learn.army.mil:443 403 2653
+https://mrmc.amedd.army.mil:443 302 2629
+https://ms-vpn1.ngb.army.mil:443 200 315
+https://ne-vpn1.ngb.army.mil:443 200 315
+https://ny-vpn2.ngb.army.mil:443 200 315
+https://oaats.cvs.ellc.learn.army.mil:443 302
+https://oamtrain.logsa.army.mil:443 200 116
+https://oegames.tradoc.army.mil:443 200 7191
+https://ogc.altess.army.mil:443 200 13499
+https://origin-www.foia.army.mil:443 403 2650
+https://osbp.apg.army.mil:443 403 179
+https://osbp.army.mil:443 200 30707
+https://osja.redstone.army.mil:443 200 15063
+https://outreach.lrh.usace.army.mil:443 301 161
+https://pa-vpn1.ngb.army.mil:443 200 315
+https://pa-vpn2.ngb.army.mil:443 200 315
+https://phms.amedd.army.mil:443 302 155
+https://polla.ra.army.mil:443 200 315
+https://regulatory-test.ops.usace.army.mil:443 403 12
+https://ria-jmtc.army.mil:443 200 30477
+https://rilks.ra.army.mil:443 200 315
+https://spcs6.kc.army.mil:443 401 16
+https://splunk-deployment-web.mi.army.mil:443 302
+https://spsalt.army.mil:443 302 161
+https://stage2.cadie.army.mil:443 302
+https://sts.cdt.cprobe.army.mil:443 400 230
+https://swt1.army.mil:443 301 152
+https://test.osmiswebqlik.army.mil:443 301
+https://trainer.rfitv.army.mil:443 200 316
+https://twilight.mdw.army.mil:443 200 11864
+https://tx-vpn2.ngb.army.mil:443 200 315
+https://uastc.cvs.ellc.learn.army.mil:443 302
+https://usaasa.tradoc.army.mil:443 200 376
+https://usamricd.apgea.army.mil:443 301 163
+https://va-vpn1.ngb.army.mil:443 200 315
+https://vaapp.ngb.army.mil:443 504 3546
+https://w3.spa.usace.army.mil:443 200 98
+https://wct.army.mil:443 200 132739
+https://webccaralt.altess.army.mil:443 500 79
+https://webeoc.benning.army.mil:443 301 160
+https://webeoc.buchanan.army.mil:443 301 161
+https://webeoc.jbsa.army.mil:443 404 1245
+https://webeoc.redriver.army.mil:443 301 161
+https://webtrac.mwr.army.mil:443 200 17203
+https://www.41fab.army.mil:443 200 139755
+https://www.acsim.army.mil:443 403 1893
+https://www.army.mil:443 200 141725
+https://www.armyresilience.army.mil:443 200 13039
+https://www.armyupress.army.mil:443 200 102676
+https://www.asafm.army.mil:443 200 75658
+https://www.asamra.army.mil:443 200 10881
+https://www.bordeninstitute.army.mil:443 302 2645
+https://www.ccad.army.mil:443 200 20458
+https://www.mdwhome.mdw.army.mil:443 200 43079
+https://www.mwr.army.mil:443 200 10695
+https://www.portal.sfl-tap.army.mil:443 302
+https://www.rmc.usace.army.mil:443 200 41632
+https://www.sam.usace.army.mil:443 200 76597
+https://www.swf-wc.usace.army.mil:443 200 613
+https://www.tooele.army.mil:443 200 26389
+https://www.usaisr.amedd.army.mil:443 200 13301
+https://www.usamma.army.mil:443 301 156
+https://www.wsmr.army.mil:443 302 164
+https://xfer.hrc.army.mil:443 200 17547

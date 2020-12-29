@@ -40,7 +40,7 @@ var hip = make(map[string]string)
 
 func masscan(masscan string){
 	println("Running Masscan on hosts.")
-	cmd := exec.Command("sudo",masscan, "-iL", "/tmp/masscan_input.txt", "--rate","100000", "-p","80,443,8080,631,53", "-oL", "/tmp/masscan_output.txt")
+	cmd := exec.Command("sudo",masscan, "-iL", "/tmp/masscan_input.txt", "--rate","10000", "-p","80,443,8080,8000,9001,3000,4443", "-oL", "/tmp/masscan_output.txt")
 	err := cmd.Run()
 	check(err)
 	println("Masscan done.")
